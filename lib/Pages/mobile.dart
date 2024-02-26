@@ -41,7 +41,7 @@ class _MobileBodyState extends State<MobileBody> {
 
               Expanded(
                   child: ListView.builder(
-                      itemCount: 8 ,
+                      itemCount: 20 ,
                       itemBuilder: (context, index) {
                         return Padding(
                           padding: const EdgeInsets.all(8.0),

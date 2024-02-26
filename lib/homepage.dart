@@ -12,7 +12,9 @@ class HomePage extends StatelessWidget {
       body: Responsive(
           desktopBody: DesktopBody(),
           mobileBody: MobileBody()
-      )
+      ),
+
+
     );
   }
 }
